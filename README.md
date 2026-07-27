@@ -34,7 +34,7 @@ Focusing on the engineering behind AI. I design and build production-grade Retri
 
 ### ClarifAI
 
-#### Production-ready multilingual Retrieval-Augmented Generation platform powered by FastAPI, Gemini, LangChain, and FAISS for grounded enterprise document question answering.
+Production-ready multilingual Retrieval-Augmented Generation platform powered by FastAPI, Gemini, LangChain, and FAISS for grounded enterprise document question answering.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-0073EC?style=flat-square)
 
@@ -44,7 +44,7 @@ Focusing on the engineering behind AI. I design and build production-grade Retri
 
 ### LawAssist
 
-#### Offline-first legal guidance Progressive Web App featuring a browser-based Naive Bayes NLP classifier for private legal intent prediction without external AI APIs.
+Offline-first legal guidance Progressive Web App featuring a browser-based Naive Bayes NLP classifier for private legal intent prediction without external AI APIs.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Naive Bayes](https://img.shields.io/badge/ML-Naive_Bayes-orange?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Natural_Language-purple?style=flat-square) ![PWA](https://img.shields.io/badge/PWA-Progressive_Web_App-blue?style=flat-square)
 
@@ -54,7 +54,7 @@ Focusing on the engineering behind AI. I design and build production-grade Retri
 
 ### Rubik's 3D Tic-Tac-Toe
 
-#### Interactive WebGL-based 3D strategy game combining Rubik's Cube mechanics with Tic-Tac-Toe, featuring a Minimax-powered computer opponent.
+Interactive WebGL-based 3D strategy game combining Rubik's Cube mechanics with Tic-Tac-Toe, featuring a Minimax-powered computer opponent.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Web Audio API](https://img.shields.io/badge/Web_Audio-API-blueviolet?style=flat-square)
 
