@@ -71,10 +71,9 @@
 ### **Gen AI Intern** | Baobab IT Solutions
 *January 2026 – March 2026* &nbsp;•&nbsp; [baobabitsolutions.com](https://baobabitsolutions.com/)
 
-* **Redesigned and developed responsive frontend components for the company's production platform.**
-* **Implemented multilingual user interfaces to expand application access.**
-* **Participated in frontend testing and collaborated on production deployments.**
-* **Worked within an Agile workflow and utilized AI-assisted tools to improve development efficiency.**
+* **Contributed to the end-to-end redesign and development of the company's production website as part of the Gen AI team, leveraging AI-assisted development workflows to improve development efficiency.**
+* **Developed responsive and multilingual frontend features, implementing modern UI enhancements to improve user experience, accessibility, and cross-device compatibility.**
+* **Collaborated in an Agile development environment, performed frontend testing, supported production deployment, and documented the codebase for future maintenance.**
 
 ---
 
