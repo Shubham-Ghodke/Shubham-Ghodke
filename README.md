@@ -26,7 +26,7 @@ Focusing on the engineering behind AI. I design and build production-grade Retri
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-0073EC?style=flat-square)
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -86,4 +86,4 @@ Interactive WebGL-based 3D strategy game combining Rubik's Cube mechanics with T
 
 # 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-shubhamanilghodke26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamanilghodke26@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamghodke03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamghodke03) &nbsp;&nbsp;&nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-shubham--ghodke.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-ghodke.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamanilghodke26@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamghodke03)
