@@ -32,7 +32,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-### **ClarifAI**
+### ClarifAI
 
 #### Production-ready multilingual Retrieval-Augmented Generation platform powered by FastAPI, Gemini, LangChain, and FAISS for grounded enterprise document question answering.
 
@@ -42,7 +42,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-### **LawAssist**
+### LawAssist
 
 #### Offline-first legal guidance Progressive Web App featuring a browser-based Naive Bayes NLP classifier for private legal intent prediction without external AI APIs.
 
@@ -52,7 +52,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-### **Rubik's 3D Tic-Tac-Toe**
+### Rubik's 3D Tic-Tac-Toe
 
 #### Interactive WebGL-based 3D strategy game combining Rubik's Cube mechanics with Tic-Tac-Toe, featuring a Minimax-powered computer opponent.
 
@@ -66,12 +66,12 @@
 
 # 💼 Experience
 
-### **Gen AI Intern** | Baobab IT Solutions
+### Gen AI Intern | Baobab IT Solutions
 *January 2026 – March 2026* &nbsp;•&nbsp; [baobabitsolutions.com](https://baobabitsolutions.com/)
 
-* Contributed to the end-to-end **redesign and development of the company's production website** as part of the **Gen AI team**, leveraging **AI-assisted development workflows** to improve development efficiency.
-* Developed **responsive and multilingual frontend features**, implementing **modern UI enhancements** to improve user experience, accessibility, and cross-device compatibility.
-* Collaborated in an **Agile development environment**, performed frontend testing, supported production deployment, and **documented the codebase** for future maintenance.
+* Contributed to the end-to-end redesign and development of the company's production website as part of the Gen AI team, leveraging AI-assisted development workflows to improve development efficiency.
+* Developed responsive and multilingual frontend features, implementing modern UI enhancements to improve user experience, accessibility, and cross-device compatibility.
+* Collaborated in an Agile development environment, performed frontend testing, supported production deployment, and documented the codebase for future maintenance.
 
 ---
 
