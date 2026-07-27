@@ -1,110 +1,89 @@
 # Shubham Ghodke
 
-AI Developer | Machine Learning | Retrieval-Augmented Generation (RAG) | FastAPI | React | Python
+### AI Developer • Machine Learning • RAG • FastAPI • React • Python
 
-I build practical AI applications designed to run reliably in production, focusing on system stability and software engineering over experimental proofs-of-concept.
+Focusing on the engineering behind AI. I design and build production-grade Retrieval-Augmented Generation (RAG) pipelines, robust API backends, and responsive user interfaces that turn complex machine learning models into reliable, user-facing applications.
 
----
-
-## About Me
-
-Designing software that functions reliably under real-world conditions is what drives my work. During my MSc in Computer Science, I transitioned from studying theoretical machine learning to building functional, end-to-end applications. This led to projects combining FastAPI, React, and Retrieval-Augmented Generation (RAG) to solve practical text-processing problems. My experience deepened during a Generative AI internship at Baobab IT Solutions, where I contributed to their production web platform. I believe that an AI system is only as good as the software supporting it. Because of this, I focus on clean APIs, secure local data processing, and robust retrieval pipelines, aiming to build tools that work consistently rather than experimental prototypes.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) &nbsp; [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) &nbsp; [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) &nbsp; [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) &nbsp; [![Google Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white)](https://deepmind.google/technologies/gemini/) &nbsp; [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)](https://www.langchain.com/) &nbsp; [![FAISS](https://img.shields.io/badge/FAISS-VectorDB-0073EC?style=flat-square)](https://github.com/facebookresearch/faiss) &nbsp; [![RAG](https://img.shields.io/badge/Architecture-RAG-22C55E?style=flat-square)](https://arxiv.org/abs/2005.11401)
 
 ---
 
-## What I'm Building
+# Tech Stack
 
-* 📂 **Hybrid Retrieval & Document RAG Pipelines**
-* 🔌 **Production-Grade FastAPI APIs**
-* 💾 **Client-Side ML & Offline Web Applications**
-* 🎨 **Responsive React & Three.js User Interfaces**
-* 🧪 **Pragmatic AI Integration & Prompt Engineering**
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-## Tech Stack
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/API-REST-blue?style=flat-square)
 
-* **Languages**: Python, JavaScript, TypeScript, HTML, CSS
-* **Frontend**: React, Vite, Tailwind CSS, Framer Motion
-* **Backend**: FastAPI, REST APIs
-* **AI / Machine Learning**: Google Gemini, LangChain, Retrieval-Augmented Generation (RAG), FAISS, BM25, Prompt Engineering, Naive Bayes, Natural Language Processing
-* **Databases & Indexing**: SQLite, FAISS
-* **Tools**: Git, VS Code, Postman
+### 🤖 AI & Machine Learning
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![RAG](https://img.shields.io/badge/Architecture-RAG-22C55E?style=flat-square) ![FAISS](https://img.shields.io/badge/Vector_DB-FAISS-0073EC?style=flat-square) ![BM25](https://img.shields.io/badge/Retrieval-BM25-F59E0B?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Workflow-Prompt_Engineering-6366F1?style=flat-square) ![Naive Bayes](https://img.shields.io/badge/ML-Naive_Bayes-orange?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Natural_Language-purple?style=flat-square)
 
----
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-0073EC?style=flat-square)
 
-## Featured Projects
-
-### ClarifAI
-
-Production-ready multilingual Retrieval-Augmented Generation (RAG) customer support platform built with FastAPI, Google Gemini, LangChain, FAISS and BM25. Supports multi-document ingestion, hybrid retrieval, grounded answer generation and source attribution for reliable enterprise knowledge retrieval.
-
-* **Tech Stack**: Python • FastAPI • React • Gemini • LangChain • FAISS • BM25
-
-Repository: [github.com/Shubham-Ghodke/ClarifAI](https://github.com/Shubham-Ghodke/ClarifAI)
-
-Live Demo: [clarifai-rag.vercel.app](https://clarifai-rag.vercel.app)
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### LawAssist
+# 🚀 Things I've Built
 
-Privacy-first legal guidance Progressive Web App featuring a browser-based Naive Bayes NLP classifier for offline legal intent prediction. Processes user queries entirely on-device without external AI APIs while delivering structured legal guidance.
+━━━━━━━━━━━━━━━━━━━━━━
 
-* **Tech Stack**: React • TypeScript • Tailwind CSS • Naive Bayes • NLP • PWA
+### **ClarifAI**
 
-Repository: [github.com/Shubham-Ghodke/LawAssist](https://github.com/Shubham-Ghodke/LawAssist)
+Production-ready multilingual Retrieval-Augmented Generation platform powered by FastAPI, Gemini, LangChain, FAISS and BM25 for grounded enterprise document question answering.
 
-Live Demo: [getlawassist.vercel.app](https://getlawassist.vercel.app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-0073EC?style=flat-square) ![BM25](https://img.shields.io/badge/Retrieval-BM25-F59E0B?style=flat-square)
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-Ghodke/ClarifAI) &nbsp;&nbsp;&nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clarifai-rag.vercel.app)
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+### **LawAssist**
+
+Offline-first legal guidance Progressive Web App featuring a browser-based Naive Bayes NLP classifier for private legal intent prediction without external AI APIs.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Naive Bayes](https://img.shields.io/badge/ML-Naive_Bayes-orange?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Natural_Language-purple?style=flat-square) ![PWA](https://img.shields.io/badge/PWA-Progressive_Web_App-blue?style=flat-square)
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-Ghodke/LawAssist) &nbsp;&nbsp;&nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://getlawassist.vercel.app)
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+### **Rubik's 3D Tic-Tac-Toe**
+
+Interactive WebGL-based 3D strategy game combining Rubik's Cube mechanics with Tic-Tac-Toe, featuring a Minimax-powered computer opponent.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Web Audio API](https://img.shields.io/badge/Web_Audio-API-blueviolet?style=flat-square)
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-Ghodke/Rubiks-tic-tac-toe) &nbsp;&nbsp;&nbsp;&nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rubikscube-tic-tac-toe.vercel.app)
+
+━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
-### Rubik's 3D Tic-Tac-Toe
+# 💼 Experience
 
-Interactive browser-based 3D strategy game combining Rubik's Cube mechanics with Tic-Tac-Toe. Features a Minimax-based computer opponent, WebGL graphics and responsive gameplay across desktop and mobile devices.
-
-* **Tech Stack**: JavaScript • Three.js • HTML5 • CSS3 • Web Audio API
-
-Repository: [github.com/Shubham-Ghodke/Rubiks-tic-tac-toe](https://github.com/Shubham-Ghodke/Rubiks-tic-tac-toe)
-
-Live Demo: [rubikscube-tic-tac-toe.vercel.app](https://rubikscube-tic-tac-toe.vercel.app)
-
----
-
-## Professional Experience
-
-### Gen AI Intern | Baobab IT Solutions
+### **Gen AI Intern** | Baobab IT Solutions
 *January 2026 – March 2026*
 
-* Redesigned and developed the frontend of the company's production website.
-* Implemented responsive and multilingual user interfaces to expand application access.
-* Participated in testing and production deployments.
-* Worked within an Agile development workflow.
-* Leveraged AI-assisted development workflows to improve development efficiency while maintaining code quality.
+* Redesigned and developed responsive frontend components for the company's production platform.
+* Implemented multilingual user interfaces to expand application access.
+* Participated in frontend testing and collaborated on production deployments.
+* Worked within an Agile workflow and utilized AI-assisted tools to improve development efficiency.
 
 ---
 
-## Currently Exploring
+# 📚 Currently Exploring
 
-* Agentic AI
-* LangGraph
-* Model Context Protocol (MCP)
-* Advanced RAG
-* Vector Databases
-* AI System Design
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6366F1?style=flat-square) &nbsp; ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) &nbsp; ![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square) &nbsp; ![Advanced RAG](https://img.shields.io/badge/Advanced_RAG-22C55E?style=flat-square) &nbsp; ![Vector Databases](https://img.shields.io/badge/Vector_Databases-0073EC?style=flat-square) &nbsp; ![AI System Design](https://img.shields.io/badge/AI_System_Design-F59E0B?style=flat-square)
 
 ---
 
-## Open Source & Collaboration
+# 🤝 Let's Connect
 
-I enjoy collaborating on open-source projects, developer tools, and applications involving Artificial Intelligence, Machine Learning, FastAPI, and React. If you are building developer tooling or working on an open-source project and need an extra contributor, feel free to reach out.
-
----
-
-## Connect With Me
-
-Email: [shubhamanilghodke26@gmail.com](mailto:shubhamanilghodke26@gmail.com)
-
-LinkedIn: [linkedin.com/in/shubhamghodke03](https://linkedin.com/in/shubhamghodke03)
-
-Portfolio: [shubham-ghodke.github.io](https://shubham-ghodke.github.io)
+[![Email](https://img.shields.io/badge/Email-shubhamanilghodke26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamanilghodke26@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamghodke03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamghodke03) &nbsp;&nbsp;&nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-shubham--ghodke.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-ghodke.github.io)
