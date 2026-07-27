@@ -1,25 +1,35 @@
 # Shubham Ghodke
 
-AI Developer | Generative AI | Machine Learning | FastAPI | React | Python
+AI Developer | Machine Learning | Retrieval-Augmented Generation (RAG) | FastAPI | React | Python
+
+I build practical AI applications designed to run reliably in production, focusing on system stability and software engineering over experimental proofs-of-concept.
 
 ---
 
 ## About Me
 
-I am a software engineer with an MSc in Computer Science and a strong interest in building practical Artificial Intelligence and full-stack applications. During my internship at Baobab IT Solutions, I gained hands-on experience developing and deploying responsive, multilingual software for a production environment. I am focused on constructing functional Retrieval-Augmented Generation (RAG) systems, integrating Machine Learning models, and building APIs using FastAPI and React. I prioritize developing clean, stable, and production-ready applications that solve real-world problems over building simple, experimental prototypes.
+Designing software that functions reliably under real-world conditions is what drives my work. During my MSc in Computer Science, I transitioned from studying theoretical machine learning to building functional, end-to-end applications. This led to projects combining FastAPI, React, and Retrieval-Augmented Generation (RAG) to solve practical text-processing problems. My experience deepened during a Generative AI internship at Baobab IT Solutions, where I contributed to their production web platform. I believe that an AI system is only as good as the software supporting it. Because of this, I focus on clean APIs, secure local data processing, and robust retrieval pipelines, aiming to build tools that work consistently rather than experimental prototypes.
+
+---
+
+## What I'm Building
+
+* 📂 **Hybrid Retrieval & Document RAG Pipelines**
+* 🔌 **Production-Grade FastAPI APIs**
+* 💾 **Client-Side ML & Offline Web Applications**
+* 🎨 **Responsive React & Three.js User Interfaces**
+* 🧪 **Pragmatic AI Integration & Prompt Engineering**
 
 ---
 
 ## Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/API-REST-blue?style=flat-square) |
-| **AI / Machine Learning** | ![Google Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![RAG](https://img.shields.io/badge/Architecture-RAG-22C55E?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/Vector_DB-FAISS-0073EC?style=flat-square) ![BM25](https://img.shields.io/badge/Retrieval-BM25-F59E0B?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Workflow-Prompt_Engineering-6366F1?style=flat-square) ![Naive Bayes](https://img.shields.io/badge/ML-Naive_Bayes-orange?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Natural_Language-purple?style=flat-square) |
-| **Databases** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-0073EC?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+* **Languages**: Python, JavaScript, TypeScript, HTML, CSS
+* **Frontend**: React, Vite, Tailwind CSS, Framer Motion
+* **Backend**: FastAPI, REST APIs
+* **AI / Machine Learning**: Google Gemini, LangChain, Retrieval-Augmented Generation (RAG), FAISS, BM25, Prompt Engineering, Naive Bayes, Natural Language Processing
+* **Databases & Indexing**: SQLite, FAISS
+* **Tools**: Git, VS Code, Postman
 
 ---
 
@@ -27,9 +37,9 @@ I am a software engineer with an MSc in Computer Science and a strong interest i
 
 ### ClarifAI
 
-Production-ready multilingual RAG-based customer support platform built with FastAPI, Google Gemini, LangChain, FAISS and BM25. Supports document ingestion, hybrid retrieval, grounded responses and source attribution.
+Production-ready multilingual Retrieval-Augmented Generation (RAG) customer support platform built with FastAPI, Google Gemini, LangChain, FAISS and BM25. Supports multi-document ingestion, hybrid retrieval, grounded answer generation and source attribution for reliable enterprise knowledge retrieval.
 
-Tech: Python • FastAPI • React • Gemini • LangChain • FAISS • BM25
+* **Tech Stack**: Python • FastAPI • React • Gemini • LangChain • FAISS • BM25
 
 Repository: [github.com/Shubham-Ghodke/ClarifAI](https://github.com/Shubham-Ghodke/ClarifAI)
 
@@ -39,9 +49,9 @@ Live Demo: [clarifai-rag.vercel.app](https://clarifai-rag.vercel.app)
 
 ### LawAssist
 
-Privacy-first legal guidance platform built as an offline Progressive Web App. Uses a browser-based Naive Bayes NLP classifier to predict legal intent locally without external AI APIs while providing structured legal guidance.
+Privacy-first legal guidance Progressive Web App featuring a browser-based Naive Bayes NLP classifier for offline legal intent prediction. Processes user queries entirely on-device without external AI APIs while delivering structured legal guidance.
 
-Tech: React • TypeScript • Tailwind CSS • Naive Bayes • NLP • PWA
+* **Tech Stack**: React • TypeScript • Tailwind CSS • Naive Bayes • NLP • PWA
 
 Repository: [github.com/Shubham-Ghodke/LawAssist](https://github.com/Shubham-Ghodke/LawAssist)
 
@@ -51,9 +61,9 @@ Live Demo: [getlawassist.vercel.app](https://getlawassist.vercel.app)
 
 ### Rubik's 3D Tic-Tac-Toe
 
-Interactive 3D browser game inspired by Rubik's Cube mechanics featuring strategic computer gameplay using a Minimax search algorithm and immersive WebGL rendering.
+Interactive browser-based 3D strategy game combining Rubik's Cube mechanics with Tic-Tac-Toe. Features a Minimax-based computer opponent, WebGL graphics and responsive gameplay across desktop and mobile devices.
 
-Tech: JavaScript • Three.js • HTML5 • CSS3 • Web Audio API
+* **Tech Stack**: JavaScript • Three.js • HTML5 • CSS3 • Web Audio API
 
 Repository: [github.com/Shubham-Ghodke/Rubiks-tic-tac-toe](https://github.com/Shubham-Ghodke/Rubiks-tic-tac-toe)
 
@@ -63,22 +73,22 @@ Live Demo: [rubikscube-tic-tac-toe.vercel.app](https://rubikscube-tic-tac-toe.ve
 
 ## Professional Experience
 
-### Gen AI Intern
-**Baobab IT Solutions** | *January 2026 – March 2026*
+### Gen AI Intern | Baobab IT Solutions
+*January 2026 – March 2026*
 
-* Redesigned and developed the frontend of the company's live production website to improve user engagement.
-* Built and optimized responsive UI components using React and Tailwind CSS.
-* Implemented multilingual localization support to expand application accessibility for global users.
-* Participated in tests and production deployments within a collaborative Agile workflow.
-* Incorporated AI-assisted development tools to speed up coding and testing while maintaining strict code quality and review standards.
+* Redesigned and developed the frontend of the company's production website.
+* Implemented responsive and multilingual user interfaces to expand application access.
+* Participated in testing and production deployments.
+* Worked within an Agile development workflow.
+* Leveraged AI-assisted development workflows to improve development efficiency while maintaining code quality.
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
 * Agentic AI
-* Model Context Protocol (MCP)
 * LangGraph
+* Model Context Protocol (MCP)
 * Advanced RAG
 * Vector Databases
 * AI System Design
@@ -87,16 +97,14 @@ Live Demo: [rubikscube-tic-tac-toe.vercel.app](https://rubikscube-tic-tac-toe.ve
 
 ## Open Source & Collaboration
 
-I am open to collaborating on open-source projects, developer tools, and applications focused on Artificial Intelligence, Machine Learning, FastAPI, and React. If you have an interesting project or need a contributor, feel free to reach out.
+I enjoy collaborating on open-source projects, developer tools, and applications involving Artificial Intelligence, Machine Learning, FastAPI, and React. If you are building developer tooling or working on an open-source project and need an extra contributor, feel free to reach out.
 
 ---
 
 ## Connect With Me
 
-Email: [shubhamghodke383@gmail.com](mailto:shubhamghodke383@gmail.com)
+Email: [shubhamanilghodke26@gmail.com](mailto:shubhamanilghodke26@gmail.com)
 
-LinkedIn: [linkedin.com/in/shubham-ghodke-747209250](https://linkedin.com/in/shubham-ghodke-747209250)
+LinkedIn: [linkedin.com/in/shubhamghodke03](https://linkedin.com/in/shubhamghodke03)
 
 Portfolio: [shubham-ghodke.github.io](https://shubham-ghodke.github.io)
-
-GitHub: [github.com/Shubham-Ghodke](https://github.com/Shubham-Ghodke)
