@@ -1,7 +1,5 @@
 # Shubham Ghodke
 
-### AI Developer • Machine Learning • RAG • FastAPI • React • Python
-
 ### Focusing on the engineering behind AI. I design and build production-grade Retrieval-Augmented Generation (RAG) pipelines, robust API backends, and responsive user interfaces that turn complex machine learning models into reliable, user-facing applications.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) &nbsp; [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) &nbsp; [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) &nbsp; [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) &nbsp; [![Google Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white)](https://deepmind.google/technologies/gemini/) &nbsp; [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)](https://www.langchain.com/) &nbsp; [![FAISS](https://img.shields.io/badge/FAISS-VectorDB-0073EC?style=flat-square)](https://github.com/facebookresearch/faiss) &nbsp; [![RAG](https://img.shields.io/badge/Architecture-RAG-22C55E?style=flat-square)](https://arxiv.org/abs/2005.11401)
