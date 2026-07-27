@@ -68,8 +68,8 @@ Interactive WebGL-based 3D strategy game combining Rubik's Cube mechanics with T
 
 # 💼 Experience
 
-### **Gen AI Intern** | [Baobab IT Solutions](https://baobabitsolutions.com/)
-*January 2026 – March 2026*
+### **Gen AI Intern** | Baobab IT Solutions
+*January 2026 – March 2026* &nbsp;•&nbsp; [baobabitsolutions.com](https://baobabitsolutions.com/)
 
 * Redesigned and developed responsive frontend components for the company's production platform.
 * Implemented multilingual user interfaces to expand application access.
